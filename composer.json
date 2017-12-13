@@ -1,0 +1,22 @@
+{
+    "name": "ami/pdowrapper",
+    "description": "Wrapper class for PHP PDO",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "5.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ami\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amila",
+            "email": "ami.dev.k@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
