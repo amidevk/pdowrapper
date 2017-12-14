@@ -2,6 +2,7 @@
     "name": "ami/pdowrapper",
     "description": "Wrapper class for PHP PDO",
     "type": "library",
+    "version": "v1.0.0-beta",
     "require-dev": {
         "phpunit/phpunit": "5.7"
     },
