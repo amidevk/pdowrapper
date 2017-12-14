@@ -17,6 +17,8 @@
             "email": "ami.dev.k@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "beta",
+    "require": {
+        "php": ">=5.6.0"
+    }
 }
