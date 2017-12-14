@@ -2,14 +2,14 @@
 You can install the package by issuing below command from your app command line or shell prompt:
 
 ```
-composer require ami/pdowrapper
+git clone https://github.com/amidevk/pdowrapper.git
 ```
 
 Once installed you can import the library to your script by adding below statements:
 
 ```
-// require composer autoloader
-require 'vendor/autoload.php';
+
+require 'pdowrapper/src/Db.php';
 
 use Ami\Db;
 ```
